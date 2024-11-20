@@ -1,0 +1,5 @@
+# Syllabus Scanner
+
+This project is a web-based tool to extract deadlines and important dates from course syllabi and automatically organize them into a calendar.
+
+[Link to my GitHub repository](https://github.com/lobo017/gisc4317_6317_lab12.git)
