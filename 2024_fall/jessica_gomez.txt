@@ -1,0 +1,2 @@
+My project involves creating a program that will consolidate the process of writing a repeated paragraph into a program used to track data in my jobs program called Buganizer.
+https://github.com/jessicaaaggg/giscX317_lab12.git 
