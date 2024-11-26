@@ -1,0 +1,3 @@
+GlowList()
+
+Hello, my name is Mala! My project is building an app that helps recommend products from the sephora webiste based on consumer preferences. There will be prompts available off of which the app will suggest the matching products 
