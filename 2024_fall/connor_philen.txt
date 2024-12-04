@@ -1,0 +1,5 @@
+Banking App
+
+Creating a banking app that allows the user to register an account, login to the account, withdraw, deposit, and apply for a loan.
+
+https://github.com/cphilen/giscX317_lab12.git
