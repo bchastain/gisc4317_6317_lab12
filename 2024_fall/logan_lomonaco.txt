@@ -1,0 +1,4 @@
+EZchartz
+This code used a user inputed ticker to webscrape data from Yahoo Finance and
+reads it in as a Data Frame. This data is then used to generate various charts
+based on the data and user preferences chosen through menus.
