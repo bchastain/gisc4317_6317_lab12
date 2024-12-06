@@ -1,0 +1,6 @@
+# Creating Walkable Greenspace to Improve Mental Health in Texas
+
+This project focuses on the design and implementation of walkable greenspaces in urban areas of Texas. By improving access to nature and outdoor areas, the project aims to enhance mental health and overall well-being for residents.
+
+Link to GitHub Repository: https://github.com/Lasin7/gisc4317_6317_lab12
+ 
