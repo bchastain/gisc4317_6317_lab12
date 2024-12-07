@@ -1,0 +1,5 @@
+Secure Banking Application
+
+Our project is a secure banking application which allows users to complete their everyday banking tasks, such as making a deposit, withdrawing funds, and checking their balance.
+
+https://github.com/idontknow787/giscX317_lab12.git
