@@ -1,0 +1,3 @@
+This project involves the processes of creating a Git account and linking it to my GitHub account. It enables a connection to extract files from associated organizations and collaboration seamlessly.
+
+https://github.com/StanLi01/gisc4317_6317_lab12.git
