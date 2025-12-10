@@ -1,0 +1,3 @@
+My final project is to help people locate meteorites and to see if their rocks are meteorites. 
+
+https://github.com/AnnaXie25/gisc4317_6317_lab12.git
