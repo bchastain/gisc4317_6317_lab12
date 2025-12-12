@@ -1,0 +1,6 @@
+
+EPPS 6317 Final Project: Display invalid addresses on map
+The goal of this project is to support the geocoding of a large number of invalid addresses, 
+helping to reduce the time spent manually rematching them.
+
+https://github.com/tranhhung/gisc4317_6317_lab12
